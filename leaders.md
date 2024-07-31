@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Andrea Valenza](mailto:Andrea.Valenza@owasp.org)
+* [Luca Demetrio](mailto:Luca.Demetrio@owasp.org)
