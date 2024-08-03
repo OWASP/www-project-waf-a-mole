@@ -3,7 +3,7 @@ title: Running WAF-A-MoLE
 layout:  null
 tab: true
 order: 1
-tags: quickstart
+tags: example-tag
 ---
 
 # Prerequisites
@@ -29,6 +29,7 @@ We already provide wrappers for *sci-kit learn* and *keras* classifiers that can
 ## Help
 
 `wafamole --help`
+
 ```
 Usage: wafamole [OPTIONS] COMMAND [ARGS]...
 
@@ -41,6 +42,7 @@ Commands:
 
 
 `wafamole evade --help`
+
 ```
 Usage: wafamole evade [OPTIONS] MODEL_PATH PAYLOAD
 
