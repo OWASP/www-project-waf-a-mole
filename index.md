@@ -34,7 +34,8 @@ Below are the SQL mutation operators available in the current version of WAF-A-M
 | Logical Invariant		    | admin' OR 1=1# ⇒ admin' OR 1=1 AND 0<1# | 
 | Number Shuffling		    | admin' OR 1=1# ⇒ admin' OR 2=2# | 
 
-How to Contribute
+## How to Contribute
+
 Questions, bug reports and pull requests are always welcome.
 In particular, if you are interested in expanding this project, we are currently interested in the following contributions:
 
@@ -42,7 +43,7 @@ In particular, if you are interested in expanding this project, we are currently
 * New mutation operators (both for SQL and other vulnerability classes, XSS in particular)
 * New search algorithms
 
-## Project Road Map
+### Project Road Map
 
 🎯**August 2024 - WAF-A-MoLE becomes a OWASP project!**
 
