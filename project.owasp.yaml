@@ -1,0 +1,23 @@
+audience:
+  - breaker
+  - builder
+leaders:
+  - name: Andrea Valenza
+    email: Andrea.Valenza@owasp.org
+    github: AvalZ
+  - name: Luca Demetrio
+    email: Luca.Demetrio@owasp.org
+    github: zangobot
+level: 2
+name: OWASP WAF-A-MoLE
+pitch: A guided mutation-based fuzzer for Web Application Firewalls
+repositories:
+  - name: www-project-waf-a-mole
+    url: https://github.com/OWASP/www-project-waf-a-mole
+    description: OWASP Foundation web repository
+tags:
+  - example-tag
+  - custom-tag-1
+  - custom-tag-2
+type: code
+website: https://owasp.org/www-project-waf-a-mole
